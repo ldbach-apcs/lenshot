@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303877146476",
+    "firebase_url": "https://lenshot-cs426.firebaseio.com",
+    "project_id": "lenshot-cs426",
+    "storage_bucket": "lenshot-cs426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303877146476:android:c6ed2665e8f6d5b9",
+        "android_client_info": {
+          "package_name": "com.example.duybach.lenshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303877146476-cvgj6k3q4u2e0cjanl3cdmad28dksqid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duybach.lenshot",
+            "certificate_hash": "33864e812a99b0c07320723728e34cce88fb5d82"
+          }
+        },
+        {
+          "client_id": "303877146476-ena75abgiavgr6bv33s9h17dvqvqhkov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCooKlOxG-L3wgyo7YmLpLc9rA8il0ru0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303877146476-ena75abgiavgr6bv33s9h17dvqvqhkov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
